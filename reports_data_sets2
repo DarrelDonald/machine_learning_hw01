@@ -1,0 +1,120 @@
+['DecisionTree1.py', '184', '31', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7533333333333333
+
+pruned vi accuracy: 0.7416666666666667
+
+['DecisionTree1.py', '53', '31', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.745
+
+pruned vi accuracy: 0.725
+
+['DecisionTree1.py', '138', '38', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7533333333333333
+
+pruned vi accuracy: 0.7516666666666667
+
+['DecisionTree1.py', '113', '16', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7616666666666667
+
+pruned vi accuracy: 0.7566666666666667
+
+['DecisionTree1.py', '167', '28', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7416666666666667
+
+pruned vi accuracy: 0.7533333333333333
+
+['DecisionTree1.py', '51', '6', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.75
+
+pruned vi accuracy: 0.7366666666666667
+
+['DecisionTree1.py', '53', '22', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'yes']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7433333333333333
+
+pruned vi accuracy: 0.7533333333333333
+
+['DecisionTree1.py', '183', '35', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7633333333333333
+
+pruned vi accuracy: 0.7533333333333333
+
+['DecisionTree1.py', '194', '9', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'no']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.75
+
+pruned vi accuracy: 0.7716666666666666
+
+['DecisionTree1.py', '178', '34', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'yes']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.76
+
+pruned vi accuracy: 0.7366666666666667
+
+['DecisionTree1.py', '78', '13', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'yes']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.7633333333333333
+
+pruned vi accuracy: 0.7533333333333333
+
+['DecisionTree1.py', '89', '24', 'data_sets2/training_set.csv', 'data_sets2/validation_set.csv', 'data_sets2/test_set.csv', 'yes']
+
+ig accuracy: 0.745
+
+vi accuracy: 0.7533333333333333
+
+pruned ig accuracy: 0.73
+
+pruned vi accuracy: 0.755
+
